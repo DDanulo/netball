@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netball</string>
+    <string name="tobibl">library</string>
+    <string name="toforum">forum</string>
+    <string name="tocompetitions">news</string>
+    <string name="tocalendar">calendar</string>
+</resources>

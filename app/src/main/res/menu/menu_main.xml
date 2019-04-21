@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".LibrActivity">
+    <group android:checkableBehavior="single"/>
+
+        <item android:id="@+id/toacc"
+            android:title="Акаунт"
+            android:orderInCategory="1"
+            app:showAsAction="never"/>
+
+        <item android:id="@+id/toFAQ"
+            android:title="FAQ"
+            android:orderInCategory="2"/>
+
+        <item android:id="@+id/toAutor"
+            android:title="Авторизація"
+            android:orderInCategory="3"/>
+
+
+
+</menu>
